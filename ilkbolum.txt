@@ -1,3 +1,6 @@
 python kitabı
 
-bu kitap bugün yazılmaya başlandı
+önsöz: bu kitap bugün yazılmaya başlandı
+
+ilk bölüm: değişkenler ve veri tipleri
+değişkenler çok önemlidir
