@@ -1,0 +1,4 @@
+Bu bir örnek metindir.
+Yeni satır eklendi.
+
+bu dersimizde gittignore öğreniyoruz.
