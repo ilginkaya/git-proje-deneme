@@ -4,3 +4,5 @@ python kitabı
 
 ilk bölüm: değişkenler ve veri tipleri
 değişkenler çok önemlidir
+
+bugün branchleri öğreniyoruz.
